@@ -46,17 +46,16 @@ assertNotNull(customer.getId());
 assertNotNull(address.getId()); to create customer or address etc. 
 (https://github.com/user-attachments/assets/18cb50a8-526a-4e85-afea-0f2654e0231f)
 
+(https://github.com/user-attachments/assets/a69b0718-5d64-4948-8479-64240f065424)
+
 CreditCardsMAin Test runs successfully!
 
-My Explain the used database in eksper.1
+My Explain the used database in eksper.1  The database used in a given system might vary depending on the exercise. 
+a relational database like MySQL or PostgreSQL.
+For more permanent databases (like MySQL), they are hosted on a server and run continuously. In my projects, ORM (Object Relational Mapping) configurations create and set up the database tables automatically.
 
-    The database used in a given system might vary depending on the exercise. 
-    a relational database like MySQL or PostgreSQL, the application starts and shuts down when the application stops, as it's tied to the runtime of the application.
-    
-    For more permanent databases (like MySQL), they are hosted on a server and run continuously.
-  In my projects, ORM (Object Relational Mapping) configurations create and set up the database tables automatically.
 
-    For H2 in-memory databases, I ccess the web console (often at localhost:8080/h2-console) to visually inspect the tables and I generate a schema diagram. 
+For H2 in-memory databases, I ccess the web console (often at localhost:8080/h2-console) to visually inspect the tables and I generate a schema diagram. 
 I also provide the SQL used to create the table Customer? 
 
 [Skjermbilde 2024-09-27 144259](https://github.com/user-attachments/assets/35049231-6222-4159-8b12-67f20d03c409)
