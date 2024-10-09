@@ -44,8 +44,7 @@ em.persist(address);
 tx.commit();
 assertNotNull(customer.getId());
 assertNotNull(address.getId()); to create customer or address etc. 
-
-[Skjermbilde 2024-10-07 105935 expass 4 main java Anita](https://github.com/user-attachments/assets/18cb50a8-526a-4e85-afea-0f2654e0231f)
+(https://github.com/user-attachments/assets/18cb50a8-526a-4e85-afea-0f2654e0231f)
 
 CreditCardsMAin Test runs successfully!
 
